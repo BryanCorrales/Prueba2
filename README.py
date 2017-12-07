@@ -35,3 +35,4 @@ def cabecera():
     print("             Cristian Mainato")
 cabecera()
 leerTexto()
+grabartxt()
